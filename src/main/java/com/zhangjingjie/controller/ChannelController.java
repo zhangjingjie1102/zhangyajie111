@@ -12,6 +12,7 @@ import com.zhangjingjie.service.ChannelService;
 
 @Controller
 public class ChannelController {
+	//哈哈哈哈哈哈
 	
 	@Autowired
 	private ChannelService service;
